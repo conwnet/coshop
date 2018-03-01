@@ -1,0 +1,29 @@
+<div class="app-container with-navbar with-tabbar" ng-controller="HelpsController" style="padding-bottom: 44px;">
+
+    <div class="navbar fixed-top">
+        <div class="navbar-left hide-weixin" ng-click="goBack()">
+            <img class="button-icon" src="image/nav-left.png"/>
+            <div class="button-text">返回</div>
+        </div>
+        <div class="navbar-title">
+            {{title}}
+        </div>
+    </div>
+
+    <div class="app-content">
+        <div class="chat-content">
+            <div class="show-more"><a href="javascript:void(0);" style="font-size: 0.9em;" ng-click="showMore()">显示更多</a></div>
+            <div class="chat-message" ng-class="{mine: message.mine}" ng-repeat="message in messages track by $index" repeat-finish>
+                <p>{{message.content}}</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="tabbar fixed-bottom">
+        <div class="chat-inline">
+            <input class="chat-text" ng-model="content" placeholder="请输入您的问题"></input>
+        </div>
+        <div class="chat-send" ng-click="sendMessage()">发送</div>
+    </div>
+
+</div>

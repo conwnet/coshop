@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0d4cf01-36fd-4c2e-92c9-4ac50bd8ffc3" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="92" column="31" lean-forward="false" selection-start-line="92" selection-start-column="31" selection-end-line="92" selection-end-column="31" />
+              <folding>
+                <marker date="1506770632118" expanded="true" signature="1099:1201" ph="SELECT nav_l... ${$ecs-&gt;table('admin_user')}" />
+                <marker date="1506770632118" expanded="true" signature="1421:1504" ph="SELECT code,... ${$ecs-&gt;table('shop_config')}" />
+                <marker date="1506770632118" expanded="true" signature="10056:10122" ph="SELECT COUNT... ${$ecs-&gt;table('order_info')}" />
+                <marker date="1506770632118" expanded="true" signature="10692:10757" ph="SELECT COUNT... ${$ecs-&gt;table('order_info')}" />
+                <marker date="1506770632118" expanded="true" signature="10903:10983" ph="SELECT COUNT... ${$ecs-&gt;table('order_info')}" />
+                <marker date="1506770632118" expanded="true" signature="11404:11513" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+                <marker date="1506770632118" expanded="true" signature="11559:11702" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+                <marker date="1506770632118" expanded="true" signature="11744:11846" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+                <marker date="1506770632118" expanded="true" signature="11894:12030" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+                <marker date="1506770632118" expanded="true" signature="12072:12175" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+                <marker date="1506770632118" expanded="true" signature="12223:12360" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+                <marker date="1506770632118" expanded="true" signature="12402:12504" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+                <marker date="1506770632118" expanded="true" signature="12552:12688" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+                <marker date="1506770632118" expanded="true" signature="12764:12946" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+                <marker date="1506770632118" expanded="true" signature="12994:13208" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+                <marker date="1506770632118" expanded="true" signature="13280:13395" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+                <marker date="1506770632118" expanded="true" signature="13458:13607" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+                <marker date="1506770632118" expanded="true" signature="13905:13977" ph="SELECT COUNT... ${$ecs-&gt;table('stats')}" />
+                <marker date="1506770632118" expanded="true" signature="14608:14698" ph="SELECT COUNT... ${$ecs-&gt;table('comment')}" />
+                <marker date="1506770632118" expanded="true" signature="16462:16540" ph="SELECT COUNT... ${$ecs-&gt;table('booking_goods')}" />
+                <marker date="1506770632118" expanded="true" signature="16607:16723" ph="SELECT COUNT... ${$ecs-&gt;table('user_account')}" />
+                <marker date="1506770632118" expanded="true" signature="17919:18028" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+                <marker date="1506770632118" expanded="true" signature="18147:18168" ph="SELECT COUNT... ${$ecs-&gt;table('users')}" />
+                <marker date="1506770632118" expanded="true" signature="18232:18310" ph="SELECT value... ${$ecs-&gt;table('shop_config')}" />
+                <marker date="1506770632118" expanded="true" signature="18344:18423" ph="SELECT value... ${$ecs-&gt;table('shop_config')}" />
+                <marker date="1506770632118" expanded="true" signature="19798:19873" ph="SELECT value... ${$ecs-&gt;table('shop_config')}" />
+                <marker date="1506770632118" expanded="true" signature="19972:20048" ph="SELECT value... ${$ecs-&gt;table('shop_config')}" />
+                <marker date="1506770632118" expanded="true" signature="24460:24547" ph="SELECT shipp... ${$ecs-&gt;table('shipping')}" />
+                <marker date="1506770632118" expanded="true" signature="24733:25119" ph="INSERT INTO ${$ecs-&gt;table('shipping')}... " />
+                <marker date="1506770632118" expanded="true" signature="25362:25506" ph="SELECT shipp... ${$ecs-&gt;table(&quot;shipping_area&quot;)}" />
+                <marker date="1506770632118" expanded="true" signature="26313:26511" ph="INSERT INTO ${$ecs-&gt;table('shipping_area')}... " />
+                <marker date="1506770632118" expanded="true" signature="27995:28074" ph="SELECT COUNT... ${$ecs-&gt;table('payment')}" />
+                <marker date="1506770632118" expanded="true" signature="28752:29012" ph="INSERT INTO ${$ecs-&gt;table('payment')}... " />
+                <marker date="1506770632118" expanded="true" signature="30782:30892" ph="INSERT INTO ${$ecs-&gt;table('brand')}... " />
+                <marker date="1506770632118" expanded="true" signature="31020:31150" ph="INSERT INTO ${$ecs-&gt;table('category')}... " />
+                <marker date="1506770632118" expanded="true" signature="31339:31369" ph="SELECT MAX(g... ${$ecs-&gt;table('goods')}" />
+                <marker date="1506770632118" expanded="true" signature="37777:38301" ph="INSERT INTO ${$ecs-&gt;table('goods')}... " />
+                <marker date="1506770632118" expanded="true" signature="38521:38718" ph="INSERT INTO ${$ecs-&gt;table('goods_gallery')}... " />
+                <marker date="1506770632118" expanded="true" signature="39750:39849" ph="SELECT COUNT... ${$ecs-&gt;table('order_info')}" />
+                <marker date="1506770632118" expanded="true" signature="39926:40000" ph="SELECT COUNT... ${$ecs-&gt;table('order_info')}" />
+                <marker date="1506770632118" expanded="true" signature="40770:40850" ph="SELECT todol... ${$GLOBALS['ecs']-&gt;table('admin_user')}" />
+                <marker date="1506770632118" expanded="true" signature="41134:41226" ph="SELECT * FRO... ${$ecs-&gt;table('email_sendlist')}" />
+                <marker date="1506770632118" expanded="true" signature="41466:41537" ph="DELETE FROM " />
+                <marker date="1506770632118" expanded="true" signature="41596:41617" ph="SELECT COUNT... ${$ecs-&gt;table('email_sendlist')}" />
+                <marker date="1506770632118" expanded="true" signature="41779:41870" ph="SELECT * FRO... ${$ecs-&gt;table('mail_templates')}" />
+                <marker date="1506770632118" expanded="true" signature="42329:42400" ph="DELETE FROM " />
+                <marker date="1506770632118" expanded="true" signature="42488:42509" ph="SELECT COUNT... ${$ecs-&gt;table('email_sendlist')}" />
+                <marker date="1506770632118" expanded="true" signature="43240:43311" ph="DELETE FROM " />
+                <marker date="1506770632118" expanded="true" signature="43393:43414" ph="SELECT COUNT... ${$ecs-&gt;table('email_sendlist')}" />
+                <marker date="1506770632118" expanded="true" signature="43623:43694" ph="DELETE FROM " />
+                <marker date="1506770632118" expanded="true" signature="43753:43774" ph="SELECT COUNT... ${$ecs-&gt;table('email_sendlist')}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inc_menu.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/admin/includes/inc_menu.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/languages/zh_cn/admin/common.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="134" column="32" lean-forward="true" selection-start-line="134" selection-start-column="32" selection-end-line="134" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$cer</find>
+      <find>certificate_id'] =</find>
+      <find>$certificate</find>
+      <find>shop_config</find>
+      <find>shop_config.+?cer</find>
+      <find>set_shop_certificate</find>
+      <find>F</find>
+      <find>未授权</find>
+      <find>top</find>
+      <find>top.htm.php</find>
+      <find>top.htm</find>
+      <find>top.html.php</find>
+      <find>$yunqi</find>
+      <find>$yunqi_lo</find>
+      <find>$yun</find>
+      <find>yunqi</find>
+      <find>$yunqi_log</find>
+      <find>yunqi_login</find>
+      <find>login</find>
+      <find>act</find>
+      <find>$_REQUEST['act'] == 'login</find>
+      <find>yunqi_login'] =</find>
+      <find>$yunqi_logii</find>
+      <find>$Request</find>
+      <find>'login'</find>
+      <find>yunqiLo</find>
+      <find>云服务中心</find>
+      <find>01_certificate_manage</find>
+      <find>menu</find>
+      <find>men</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/admin/includes/init.php" />
+        <option value="$PROJECT_DIR$/admin/shop_config.php" />
+        <option value="$PROJECT_DIR$/admin/templates/index.htm" />
+        <option value="$PROJECT_DIR$/admin/templates/menu.htm" />
+        <option value="$PROJECT_DIR$/temp/compiled/admin/top.htm.php" />
+        <option value="$PROJECT_DIR$/languages/zh_cn/admin/index.php" />
+        <option value="$PROJECT_DIR$/includes/cls_certificate.php" />
+        <option value="$PROJECT_DIR$/admin/index.php" />
+        <option value="$PROJECT_DIR$/admin/privilege.php" />
+        <option value="$PROJECT_DIR$/admin/templates/top.htm" />
+        <option value="$PROJECT_DIR$/admin/includes/inc_menu.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="114" />
+    <option name="y" value="53" />
+    <option name="width" value="1221" />
+    <option name="height" value="635" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ecshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ecshop" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ecshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ecshop" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../appserver" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0d4cf01-36fd-4c2e-92c9-4ac50bd8ffc3" name="Default" comment="" />
+      <created>1505030552838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1505030552838</updated>
+      <workItem from="1505030553941" duration="803000" />
+      <workItem from="1506761544941" duration="3745000" />
+      <workItem from="1506768887142" duration="3560000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8108000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="114" y="53" width="1366" height="741" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23100305" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294509" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1116">
+          <caret line="73" column="22" lean-forward="false" selection-start-line="73" selection-start-column="22" selection-end-line="73" selection-end-column="22" />
+          <folding>
+            <marker date="1506770632118" expanded="true" signature="1099:1201" ph="SELECT nav_l... ${$ecs-&gt;table('admin_user')}" />
+            <marker date="1506770632118" expanded="true" signature="1421:1504" ph="SELECT code,... ${$ecs-&gt;table('shop_config')}" />
+            <marker date="1506770632118" expanded="true" signature="10056:10122" ph="SELECT COUNT... ${$ecs-&gt;table('order_info')}" />
+            <marker date="1506770632118" expanded="true" signature="10692:10757" ph="SELECT COUNT... ${$ecs-&gt;table('order_info')}" />
+            <marker date="1506770632118" expanded="true" signature="10903:10983" ph="SELECT COUNT... ${$ecs-&gt;table('order_info')}" />
+            <marker date="1506770632118" expanded="true" signature="11404:11513" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="11559:11702" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="11744:11846" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="11894:12030" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="12072:12175" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="12223:12360" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="12402:12504" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="12552:12688" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="12764:12946" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="12994:13208" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="13280:13395" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="13458:13607" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="13905:13977" ph="SELECT COUNT... ${$ecs-&gt;table('stats')}" />
+            <marker date="1506770632118" expanded="true" signature="14608:14698" ph="SELECT COUNT... ${$ecs-&gt;table('comment')}" />
+            <marker date="1506770632118" expanded="true" signature="16462:16540" ph="SELECT COUNT... ${$ecs-&gt;table('booking_goods')}" />
+            <marker date="1506770632118" expanded="true" signature="16607:16723" ph="SELECT COUNT... ${$ecs-&gt;table('user_account')}" />
+            <marker date="1506770632118" expanded="true" signature="17919:18028" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="18147:18168" ph="SELECT COUNT... ${$ecs-&gt;table('users')}" />
+            <marker date="1506770632118" expanded="true" signature="18232:18310" ph="SELECT value... ${$ecs-&gt;table('shop_config')}" />
+            <marker date="1506770632118" expanded="true" signature="18344:18423" ph="SELECT value... ${$ecs-&gt;table('shop_config')}" />
+            <marker date="1506770632118" expanded="true" signature="19798:19873" ph="SELECT value... ${$ecs-&gt;table('shop_config')}" />
+            <marker date="1506770632118" expanded="true" signature="19972:20048" ph="SELECT value... ${$ecs-&gt;table('shop_config')}" />
+            <marker date="1506770632118" expanded="true" signature="24460:24547" ph="SELECT shipp... ${$ecs-&gt;table('shipping')}" />
+            <marker date="1506770632118" expanded="true" signature="24733:25119" ph="INSERT INTO ${$ecs-&gt;table('shipping')}... " />
+            <marker date="1506770632118" expanded="true" signature="25362:25506" ph="SELECT shipp... ${$ecs-&gt;table(&quot;shipping_area&quot;)}" />
+            <marker date="1506770632118" expanded="true" signature="26313:26511" ph="INSERT INTO ${$ecs-&gt;table('shipping_area')}... " />
+            <marker date="1506770632118" expanded="true" signature="27995:28074" ph="SELECT COUNT... ${$ecs-&gt;table('payment')}" />
+            <marker date="1506770632118" expanded="true" signature="28752:29012" ph="INSERT INTO ${$ecs-&gt;table('payment')}... " />
+            <marker date="1506770632118" expanded="true" signature="30782:30892" ph="INSERT INTO ${$ecs-&gt;table('brand')}... " />
+            <marker date="1506770632118" expanded="true" signature="31020:31150" ph="INSERT INTO ${$ecs-&gt;table('category')}... " />
+            <marker date="1506770632118" expanded="true" signature="31339:31369" ph="SELECT MAX(g... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="37777:38301" ph="INSERT INTO ${$ecs-&gt;table('goods')}... " />
+            <marker date="1506770632118" expanded="true" signature="38521:38718" ph="INSERT INTO ${$ecs-&gt;table('goods_gallery')}... " />
+            <marker date="1506770632118" expanded="true" signature="39750:39849" ph="SELECT COUNT... ${$ecs-&gt;table('order_info')}" />
+            <marker date="1506770632118" expanded="true" signature="39926:40000" ph="SELECT COUNT... ${$ecs-&gt;table('order_info')}" />
+            <marker date="1506770632118" expanded="true" signature="40770:40850" ph="SELECT todol... ${$GLOBALS['ecs']-&gt;table('admin_user')}" />
+            <marker date="1506770632118" expanded="true" signature="41134:41226" ph="SELECT * FRO... ${$ecs-&gt;table('email_sendlist')}" />
+            <marker date="1506770632118" expanded="true" signature="41466:41537" ph="DELETE FROM " />
+            <marker date="1506770632118" expanded="true" signature="41596:41617" ph="SELECT COUNT... ${$ecs-&gt;table('email_sendlist')}" />
+            <marker date="1506770632118" expanded="true" signature="41779:41870" ph="SELECT * FRO... ${$ecs-&gt;table('mail_templates')}" />
+            <marker date="1506770632118" expanded="true" signature="42329:42400" ph="DELETE FROM " />
+            <marker date="1506770632118" expanded="true" signature="42488:42509" ph="SELECT COUNT... ${$ecs-&gt;table('email_sendlist')}" />
+            <marker date="1506770632118" expanded="true" signature="43240:43311" ph="DELETE FROM " />
+            <marker date="1506770632118" expanded="true" signature="43393:43414" ph="SELECT COUNT... ${$ecs-&gt;table('email_sendlist')}" />
+            <marker date="1506770632118" expanded="true" signature="43623:43694" ph="DELETE FROM " />
+            <marker date="1506770632118" expanded="true" signature="43753:43774" ph="SELECT COUNT... ${$ecs-&gt;table('email_sendlist')}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/languages/zh_cn/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/compiled/admin/top.htm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <folding>
+            <marker date="1506770632118" expanded="true" signature="1099:1201" ph="SELECT nav_l... ${$ecs-&gt;table('admin_user')}" />
+            <marker date="1506770632118" expanded="true" signature="1421:1504" ph="SELECT code,... ${$ecs-&gt;table('shop_config')}" />
+            <marker date="1506770632118" expanded="true" signature="10056:10122" ph="SELECT COUNT... ${$ecs-&gt;table('order_info')}" />
+            <marker date="1506770632118" expanded="true" signature="10692:10757" ph="SELECT COUNT... ${$ecs-&gt;table('order_info')}" />
+            <marker date="1506770632118" expanded="true" signature="10903:10983" ph="SELECT COUNT... ${$ecs-&gt;table('order_info')}" />
+            <marker date="1506770632118" expanded="true" signature="11404:11513" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="11559:11702" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="11744:11846" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="11894:12030" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="12072:12175" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="12223:12360" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="12402:12504" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="12552:12688" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="12764:12946" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="12994:13208" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="13280:13395" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="13458:13607" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="13905:13977" ph="SELECT COUNT... ${$ecs-&gt;table('stats')}" />
+            <marker date="1506770632118" expanded="true" signature="14608:14698" ph="SELECT COUNT... ${$ecs-&gt;table('comment')}" />
+            <marker date="1506770632118" expanded="true" signature="16462:16540" ph="SELECT COUNT... ${$ecs-&gt;table('booking_goods')}" />
+            <marker date="1506770632118" expanded="true" signature="16607:16723" ph="SELECT COUNT... ${$ecs-&gt;table('user_account')}" />
+            <marker date="1506770632118" expanded="true" signature="17919:18028" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="18147:18168" ph="SELECT COUNT... ${$ecs-&gt;table('users')}" />
+            <marker date="1506770632118" expanded="true" signature="18232:18310" ph="SELECT value... ${$ecs-&gt;table('shop_config')}" />
+            <marker date="1506770632118" expanded="true" signature="18344:18423" ph="SELECT value... ${$ecs-&gt;table('shop_config')}" />
+            <marker date="1506770632118" expanded="true" signature="19798:19873" ph="SELECT value... ${$ecs-&gt;table('shop_config')}" />
+            <marker date="1506770632118" expanded="true" signature="19972:20048" ph="SELECT value... ${$ecs-&gt;table('shop_config')}" />
+            <marker date="1506770632118" expanded="true" signature="24460:24547" ph="SELECT shipp... ${$ecs-&gt;table('shipping')}" />
+            <marker date="1506770632118" expanded="true" signature="24733:25119" ph="INSERT INTO ${$ecs-&gt;table('shipping')}... " />
+            <marker date="1506770632118" expanded="true" signature="25362:25506" ph="SELECT shipp... ${$ecs-&gt;table(&quot;shipping_area&quot;)}" />
+            <marker date="1506770632118" expanded="true" signature="26313:26511" ph="INSERT INTO ${$ecs-&gt;table('shipping_area')}... " />
+            <marker date="1506770632118" expanded="true" signature="27995:28074" ph="SELECT COUNT... ${$ecs-&gt;table('payment')}" />
+            <marker date="1506770632118" expanded="true" signature="28752:29012" ph="INSERT INTO ${$ecs-&gt;table('payment')}... " />
+            <marker date="1506770632118" expanded="true" signature="30782:30892" ph="INSERT INTO ${$ecs-&gt;table('brand')}... " />
+            <marker date="1506770632118" expanded="true" signature="31020:31150" ph="INSERT INTO ${$ecs-&gt;table('category')}... " />
+            <marker date="1506770632118" expanded="true" signature="31339:31369" ph="SELECT MAX(g... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="37777:38301" ph="INSERT INTO ${$ecs-&gt;table('goods')}... " />
+            <marker date="1506770632118" expanded="true" signature="38521:38718" ph="INSERT INTO ${$ecs-&gt;table('goods_gallery')}... " />
+            <marker date="1506770632118" expanded="true" signature="39750:39849" ph="SELECT COUNT... ${$ecs-&gt;table('order_info')}" />
+            <marker date="1506770632118" expanded="true" signature="39926:40000" ph="SELECT COUNT... ${$ecs-&gt;table('order_info')}" />
+            <marker date="1506770632118" expanded="true" signature="40770:40850" ph="SELECT todol... ${$GLOBALS['ecs']-&gt;table('admin_user')}" />
+            <marker date="1506770632118" expanded="true" signature="41134:41226" ph="SELECT * FRO... ${$ecs-&gt;table('email_sendlist')}" />
+            <marker date="1506770632118" expanded="true" signature="41466:41537" ph="DELETE FROM " />
+            <marker date="1506770632118" expanded="true" signature="41596:41617" ph="SELECT COUNT... ${$ecs-&gt;table('email_sendlist')}" />
+            <marker date="1506770632118" expanded="true" signature="41779:41870" ph="SELECT * FRO... ${$ecs-&gt;table('mail_templates')}" />
+            <marker date="1506770632118" expanded="true" signature="42329:42400" ph="DELETE FROM " />
+            <marker date="1506770632118" expanded="true" signature="42488:42509" ph="SELECT COUNT... ${$ecs-&gt;table('email_sendlist')}" />
+            <marker date="1506770632118" expanded="true" signature="43240:43311" ph="DELETE FROM " />
+            <marker date="1506770632118" expanded="true" signature="43393:43414" ph="SELECT COUNT... ${$ecs-&gt;table('email_sendlist')}" />
+            <marker date="1506770632118" expanded="true" signature="43623:43694" ph="DELETE FROM " />
+            <marker date="1506770632118" expanded="true" signature="43753:43774" ph="SELECT COUNT... ${$ecs-&gt;table('email_sendlist')}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/includes/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/tiangong.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/ecshop.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/shop_config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="278" column="21" lean-forward="false" selection-start-line="278" selection-start-column="14" selection-end-line="278" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/templates/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/templates/menu.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="156" column="0" lean-forward="false" selection-start-line="156" selection-start-column="0" selection-end-line="156" selection-end-column="0" />
+          <folding>
+            <marker date="1506764322077" expanded="true" signature="415:426" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/templates/start.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="221" column="21" lean-forward="false" selection-start-line="221" selection-start-column="14" selection-end-line="221" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/inc_constant.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="253" column="8" lean-forward="false" selection-start-line="253" selection-start-column="8" selection-end-line="253" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/cls_template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4239">
+          <caret line="1119" column="72" lean-forward="false" selection-start-line="1119" selection-start-column="72" selection-end-line="1119" selection-end-column="72" />
+          <folding>
+            <marker date="1506760446334" expanded="true" signature="38331:38337" ph=" " />
+            <marker date="1506760446334" expanded="true" signature="38732:38738" ph=" " />
+            <marker date="1506760446334" expanded="true" signature="39402:39408" ph=" " />
+            <marker date="1506760446334" expanded="true" signature="39414:39420" ph=" " />
+            <marker date="1506760446334" expanded="true" signature="39493:39499" ph=" " />
+            <marker date="1506760446334" expanded="true" signature="39505:39511" ph=" " />
+            <marker date="1506760446334" expanded="true" signature="40329:40335" ph=" " />
+            <marker date="1506760446334" expanded="true" signature="40757:40763" ph=" " />
+            <marker date="1506760446334" expanded="true" signature="41146:41152" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/lib_common.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="2824" column="4" lean-forward="false" selection-start-line="2824" selection-start-column="4" selection-end-line="2824" selection-end-column="4" />
+          <folding>
+            <marker date="1506760446330" expanded="true" signature="4140:4277" ph="SELECT regio... ${$GLOBALS['ecs']-&gt;table('region')}" />
+            <marker date="1506760446330" expanded="true" signature="4517:4622" ph="SELECT confi... ${$GLOBALS['ecs']-&gt;table('shipping_area')}" />
+            <marker date="1506760446330" expanded="true" signature="14986:15075" ph="SELECT code,... ${$GLOBALS['ecs']-&gt;table('shop_config')}" />
+            <marker date="1506760446330" expanded="true" signature="19059:19151" ph="SELECT brand... ${$GLOBALS['ecs']-&gt;table('brand')}" />
+            <marker date="1506760446330" expanded="true" signature="21096:21279" ph="SELECT act_i... ${$GLOBALS['ecs']-&gt;table('goods_activity')}" />
+            <marker date="1506760446330" expanded="true" signature="23790:23976" ph="SELECT act_i... ${$GLOBALS['ecs']-&gt;table('favourable_activity')}" />
+            <marker date="1506760446330" expanded="true" signature="24715:24823" ph="SELECT cat_i... ${$GLOBALS['ecs']-&gt;table('goods')}" />
+            <marker date="1506760446330" expanded="true" signature="29180:29318" ph="SELECT templ... ${$GLOBALS['ecs']-&gt;table('mail_templates')}" />
+            <marker date="1506760446330" expanded="true" signature="29930:30337" ph="INSERT INTO ${$GLOBALS['ecs']-&gt;table('order_action')}... " />
+            <marker date="1506760446330" expanded="true" signature="30114:30337" ph="SELECT order... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+            <marker date="1506760446330" expanded="true" signature="31940:32130" ph="SELECT goods... ${$GLOBALS['ecs']-&gt;table('order_goods')}" />
+            <marker date="1506760446330" expanded="true" signature="32170:32430" ph="SELECT goods... ${$GLOBALS['ecs']-&gt;table('order_goods')}" />
+            <marker date="1506760446330" expanded="true" signature="34336:34452" ph="SELECT COUNT... ${$GLOBALS['ecs']-&gt;table('virtual_card')}" />
+            <marker date="1506760446330" expanded="true" signature="34679:34843" ph="SELECT card_... ${$GLOBALS['ecs']-&gt;table('virtual_card')}" />
+            <marker date="1506760446330" expanded="true" signature="36428:36547" ph="SELECT order... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+            <marker date="1506760446330" expanded="true" signature="38386:38542" ph="SELECT card_... ${$GLOBALS['ecs']-&gt;table('virtual_card')}" />
+            <marker date="1506760446330" expanded="true" signature="40370:40543" ph="SELECT ext_i... ${$GLOBALS['ecs']-&gt;table('goods_activity')}" />
+            <marker date="1506760446330" expanded="true" signature="70588:70957" ph="SELECT a.att... ${$GLOBALS['ecs']-&gt;table('attribute')}" />
+            <marker date="1506760446330" expanded="true" signature="71528:71897" ph="SELECT a.att... ${$GLOBALS['ecs']-&gt;table('attribute')}" />
+            <marker date="1506760446330" expanded="true" signature="75411:75829" ph="SELECT pg.go... ${$GLOBALS['ecs']-&gt;table('package_goods')}" />
+            <marker date="1506760446330" expanded="true" signature="76765:76883" ph="SELECT goods... ${$GLOBALS['ecs']-&gt;table('goods_attr')}" />
+            <marker date="1506760446330" expanded="true" signature="78442:78514" ph="SELECT * FRO... ${$GLOBALS['ecs']-&gt;table('products')}" />
+            <marker date="1506760446330" expanded="true" signature="78610:78697" ph="SELECT goods... ${$GLOBALS['ecs']-&gt;table('goods_attr')}" />
+            <marker date="1506760446330" expanded="true" signature="80105:80378" ph="SELECT ga.go... ${$GLOBALS['ecs']-&gt;table('goods_attr')}" />
+            <marker date="1506760446330" expanded="true" signature="82157:82241" ph="select value... ${$GLOBALS['ecs']-&gt;table('shop_config')}" />
+            <marker date="1506760446330" expanded="true" signature="82708:82790" ph="select value... ${$GLOBALS['ecs']-&gt;table('shop_config')}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunqi_check.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/privilege.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1998">
+          <caret line="20" column="30" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="30" />
+          <folding>
+            <marker date="1506771693354" expanded="true" signature="6257:6333" ph="SELECT code ${$ecs-&gt;table('shop_config')}" />
+            <marker date="1506771693354" expanded="true" signature="9813:9910" ph="SELECT `ec_s... ${$ecs-&gt;table('admin_user')}" />
+            <marker date="1506771693354" expanded="true" signature="15094:15189" ph="SELECT actio... ${$ecs-&gt;table('role')}" />
+            <marker date="1506771693354" expanded="true" signature="15335:15415" ph="SELECT nav_l... ${$ecs-&gt;table('admin_user')}" />
+            <marker date="1506771693354" expanded="true" signature="15466:15735" ph="INSERT INTO ${$ecs-&gt;table('admin_user')}... " />
+            <marker date="1506771693354" expanded="true" signature="16885:17033" ph="SELECT user_... ${$ecs-&gt;table('admin_user')}" />
+            <marker date="1506771693354" expanded="true" signature="17158:17253" ph="SELECT agenc... ${$ecs-&gt;table('agency')}" />
+            <marker date="1506771693354" expanded="true" signature="17598:17681" ph="SELECT actio... ${$ecs-&gt;table('admin_user')}" />
+            <marker date="1506771693354" expanded="true" signature="19855:19933" ph="SELECT passw... ${$ecs-&gt;table('admin_user')}" />
+            <marker date="1506771693354" expanded="true" signature="19988:20065" ph="SELECT ec_sa... ${$ecs-&gt;table('admin_user')}" />
+            <marker date="1506771693354" expanded="true" signature="20950:21045" ph="SELECT actio... ${$ecs-&gt;table('role')}" />
+            <marker date="1506771693354" expanded="true" signature="23087:23104" ph="SELECT code ${$ecs-&gt;table('plugins')}" />
+            <marker date="1506771693354" expanded="true" signature="25964:26047" ph="SELECT actio... ${$ecs-&gt;table('admin_user')}" />
+            <marker date="1506771693354" expanded="true" signature="26321:26447" ph="SELECT actio... ${$ecs-&gt;table('admin_action')}" />
+            <marker date="1506771693354" expanded="true" signature="26621:26738" ph="SELECT actio... ${$ecs-&gt;table('admin_action')}" />
+            <marker date="1506771693354" expanded="true" signature="28204:28286" ph="SELECT user_... ${$ecs-&gt;table('admin_user')}" />
+            <marker date="1506771693354" expanded="true" signature="29247:29331" ph="SELECT user_... ${$ecs-&gt;table('admin_user')}" />
+            <marker date="1506771693354" expanded="true" signature="30496:30598" ph="SELECT `pass... ${$ecs-&gt;table('admin_user')}" />
+            <marker date="1506771693354" expanded="true" signature="31606:31690" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/templates/top.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="429" column="6" lean-forward="true" selection-start-line="429" selection-start-column="6" selection-end-line="429" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/languages/zh_cn/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/includes/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6694">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/compiled/admin/top.htm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3222">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/cls_certificate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="61" column="142" lean-forward="false" selection-start-line="61" selection-start-column="127" selection-end-line="61" selection-end-column="142" />
+          <folding>
+            <marker date="1506769887804" expanded="true" signature="1435:1524" ph="select code,... ${$GLOBALS['ecs']-&gt;table('shop_config')}" />
+            <marker date="1506769887804" expanded="true" signature="2130:2220" ph="select code,... ${$GLOBALS['ecs']-&gt;table('shop_config')}" />
+            <marker date="1506769887804" expanded="true" signature="2457:2595" ph="insert into ${$GLOBALS['ecs']-&gt;table('shop_config')}... " />
+            <marker date="1506769887804" expanded="true" signature="2839:2972" ph="insert into ${$GLOBALS['ecs']-&gt;table('shop_config')}... " />
+            <marker date="1506769887804" expanded="true" signature="3130:3216" ph="select value... ${$GLOBALS['ecs']-&gt;table('shop_config')}" />
+            <marker date="1506769887804" expanded="true" signature="3415:3531" ph="select passp... ${$GLOBALS['ecs']-&gt;table('admin_user')}" />
+            <marker date="1506769887804" expanded="true" signature="3760:3868" ph="delete from " />
+            <marker date="1506769887804" expanded="true" signature="3895:3983" ph="delete from " />
+            <marker date="1506769887804" expanded="true" signature="9639:9768" ph="insert into ${$GLOBALS['ecs']-&gt;table('shop_config')}... " />
+            <marker date="1506769887804" expanded="true" signature="10152:10175" ph="select code,... ${$GLOBALS['ecs']-&gt;table('shop_config')}" />
+            <marker date="1506769887804" expanded="true" signature="10545:10626" ph="select `valu... ${$GLOBALS['ecs']-&gt;table('shop_config')}" />
+            <marker date="1506769887804" expanded="true" signature="10777:10863" ph="select `valu... ${$GLOBALS['ecs']-&gt;table('shop_config')}" />
+            <marker date="1506769887804" expanded="true" signature="11300:11384" ph="select `valu... ${$GLOBALS['ecs']-&gt;table('shop_config')}" />
+            <marker date="1506769887804" expanded="true" signature="15013:15100" ph="SELECT COUNT... ${$GLOBALS['ecs']-&gt;table('payment')}" />
+            <marker date="1506769887804" expanded="true" signature="16093:16370" ph="INSERT INTO ${$GLOBALS['ecs']-&gt;table('payment')}... " />
+            <marker date="1506769887804" expanded="true" signature="19383:19461" ph="select * fro... ${$GLOBALS['ecs']-&gt;table('shop_config')}" />
+            <marker date="1506769887804" expanded="true" signature="19702:19723" ph="select count... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+            <marker date="1506769887804" expanded="true" signature="19799:19820" ph="select count... ${$GLOBALS['ecs']-&gt;table('users')}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/languages/zh_cn/admin/common.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="134" column="32" lean-forward="true" selection-start-line="134" selection-start-column="32" selection-end-line="134" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="92" column="31" lean-forward="false" selection-start-line="92" selection-start-column="31" selection-end-line="92" selection-end-column="31" />
+          <folding>
+            <marker date="1506770632118" expanded="true" signature="1099:1201" ph="SELECT nav_l... ${$ecs-&gt;table('admin_user')}" />
+            <marker date="1506770632118" expanded="true" signature="1421:1504" ph="SELECT code,... ${$ecs-&gt;table('shop_config')}" />
+            <marker date="1506770632118" expanded="true" signature="10056:10122" ph="SELECT COUNT... ${$ecs-&gt;table('order_info')}" />
+            <marker date="1506770632118" expanded="true" signature="10692:10757" ph="SELECT COUNT... ${$ecs-&gt;table('order_info')}" />
+            <marker date="1506770632118" expanded="true" signature="10903:10983" ph="SELECT COUNT... ${$ecs-&gt;table('order_info')}" />
+            <marker date="1506770632118" expanded="true" signature="11404:11513" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="11559:11702" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="11744:11846" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="11894:12030" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="12072:12175" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="12223:12360" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="12402:12504" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="12552:12688" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="12764:12946" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="12994:13208" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="13280:13395" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="13458:13607" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="13905:13977" ph="SELECT COUNT... ${$ecs-&gt;table('stats')}" />
+            <marker date="1506770632118" expanded="true" signature="14608:14698" ph="SELECT COUNT... ${$ecs-&gt;table('comment')}" />
+            <marker date="1506770632118" expanded="true" signature="16462:16540" ph="SELECT COUNT... ${$ecs-&gt;table('booking_goods')}" />
+            <marker date="1506770632118" expanded="true" signature="16607:16723" ph="SELECT COUNT... ${$ecs-&gt;table('user_account')}" />
+            <marker date="1506770632118" expanded="true" signature="17919:18028" ph="SELECT COUNT... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="18147:18168" ph="SELECT COUNT... ${$ecs-&gt;table('users')}" />
+            <marker date="1506770632118" expanded="true" signature="18232:18310" ph="SELECT value... ${$ecs-&gt;table('shop_config')}" />
+            <marker date="1506770632118" expanded="true" signature="18344:18423" ph="SELECT value... ${$ecs-&gt;table('shop_config')}" />
+            <marker date="1506770632118" expanded="true" signature="19798:19873" ph="SELECT value... ${$ecs-&gt;table('shop_config')}" />
+            <marker date="1506770632118" expanded="true" signature="19972:20048" ph="SELECT value... ${$ecs-&gt;table('shop_config')}" />
+            <marker date="1506770632118" expanded="true" signature="24460:24547" ph="SELECT shipp... ${$ecs-&gt;table('shipping')}" />
+            <marker date="1506770632118" expanded="true" signature="24733:25119" ph="INSERT INTO ${$ecs-&gt;table('shipping')}... " />
+            <marker date="1506770632118" expanded="true" signature="25362:25506" ph="SELECT shipp... ${$ecs-&gt;table(&quot;shipping_area&quot;)}" />
+            <marker date="1506770632118" expanded="true" signature="26313:26511" ph="INSERT INTO ${$ecs-&gt;table('shipping_area')}... " />
+            <marker date="1506770632118" expanded="true" signature="27995:28074" ph="SELECT COUNT... ${$ecs-&gt;table('payment')}" />
+            <marker date="1506770632118" expanded="true" signature="28752:29012" ph="INSERT INTO ${$ecs-&gt;table('payment')}... " />
+            <marker date="1506770632118" expanded="true" signature="30782:30892" ph="INSERT INTO ${$ecs-&gt;table('brand')}... " />
+            <marker date="1506770632118" expanded="true" signature="31020:31150" ph="INSERT INTO ${$ecs-&gt;table('category')}... " />
+            <marker date="1506770632118" expanded="true" signature="31339:31369" ph="SELECT MAX(g... ${$ecs-&gt;table('goods')}" />
+            <marker date="1506770632118" expanded="true" signature="37777:38301" ph="INSERT INTO ${$ecs-&gt;table('goods')}... " />
+            <marker date="1506770632118" expanded="true" signature="38521:38718" ph="INSERT INTO ${$ecs-&gt;table('goods_gallery')}... " />
+            <marker date="1506770632118" expanded="true" signature="39750:39849" ph="SELECT COUNT... ${$ecs-&gt;table('order_info')}" />
+            <marker date="1506770632118" expanded="true" signature="39926:40000" ph="SELECT COUNT... ${$ecs-&gt;table('order_info')}" />
+            <marker date="1506770632118" expanded="true" signature="40770:40850" ph="SELECT todol... ${$GLOBALS['ecs']-&gt;table('admin_user')}" />
+            <marker date="1506770632118" expanded="true" signature="41134:41226" ph="SELECT * FRO... ${$ecs-&gt;table('email_sendlist')}" />
+            <marker date="1506770632118" expanded="true" signature="41466:41537" ph="DELETE FROM " />
+            <marker date="1506770632118" expanded="true" signature="41596:41617" ph="SELECT COUNT... ${$ecs-&gt;table('email_sendlist')}" />
+            <marker date="1506770632118" expanded="true" signature="41779:41870" ph="SELECT * FRO... ${$ecs-&gt;table('mail_templates')}" />
+            <marker date="1506770632118" expanded="true" signature="42329:42400" ph="DELETE FROM " />
+            <marker date="1506770632118" expanded="true" signature="42488:42509" ph="SELECT COUNT... ${$ecs-&gt;table('email_sendlist')}" />
+            <marker date="1506770632118" expanded="true" signature="43240:43311" ph="DELETE FROM " />
+            <marker date="1506770632118" expanded="true" signature="43393:43414" ph="SELECT COUNT... ${$ecs-&gt;table('email_sendlist')}" />
+            <marker date="1506770632118" expanded="true" signature="43623:43694" ph="DELETE FROM " />
+            <marker date="1506770632118" expanded="true" signature="43753:43774" ph="SELECT COUNT... ${$ecs-&gt;table('email_sendlist')}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/includes/inc_menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

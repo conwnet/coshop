@@ -1,0 +1,4 @@
+.env
+config.app.js
+node_modules
+package-lock.json

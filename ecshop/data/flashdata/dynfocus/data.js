@@ -1,0 +1,19 @@
+imgUrl1="data/afficheimg/20180223lkllog.jpg";
+imgtext1="";
+imgLink1=escape("http://");
+imgUrl2="data/afficheimg/20180223lhkgaz.jpg";
+imgtext2="";
+imgLink2=escape("http://");
+imgUrl3="data/afficheimg/20180223qakcke.jpg";
+imgtext3="";
+imgLink3=escape("http://");
+imgUrl4="data/afficheimg/20180223zasatx.jpg";
+imgtext4="";
+imgLink4=escape("http://");
+imgUrl5="data/afficheimg/20180223kdkkeg.jpg";
+imgtext5="";
+imgLink5=escape("http://");
+
+var pics=imgUrl1+"|"+imgUrl2+"|"+imgUrl3+"|"+imgUrl4+"|"+imgUrl5;
+var links=imgLink1+"|"+imgLink2+"|"+imgLink3+"|"+imgLink4+"|"+imgLink5;
+var texts=imgtext1+"|"+imgtext2+"|"+imgtext3+"|"+imgtext4+"|"+imgtext5;

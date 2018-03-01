@@ -1,0 +1,25 @@
+<div class="app-container with-navbar" ng-controller="PriceTrendController">
+
+    <div class="navbar fixed-top">
+        <div class="navbar-left hide-weixin" ng-click="goBack()">
+            <img class="button-icon" src="image/nav-left.png"/>
+            <div class="button-text">取消</div>
+        </div>
+        <div class="navbar-title">
+            价格趋势
+        </div>
+    </div>
+
+    <div class="app-content">
+
+        <div class="profile-item" ng-repeat="item in items" ng-click="goDetail(item.url)">
+            <img class="item-icon" src="image/icon-order.png"/>
+
+            <div class="item-name">{{ item.name }}</div>
+            <div class="item-desc">查看</div>
+            <img class="item-arrow" src="image/nav-right.png"/>
+        </div>
+
+    </div>
+
+</div>

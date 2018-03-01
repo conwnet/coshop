@@ -1,0 +1,55 @@
+<div class="app-container with-navbar" ng-controller="MyInfoController">
+
+    <div class="navbar fixed-top">
+        <div class="navbar-left hide-weixin" ng-click="goBack()">
+            <img class="button-icon" src="image/nav-left.png"/>
+            <div class="button-text">取消</div>
+        </div>
+        <div class="navbar-title">
+            个人资料
+        </div>
+    </div>
+
+    <div class="app-content">
+
+        <div class="changepass-form">
+            <div class="changepass-field">
+                <div class="field-icon" style="width: 50px; line-height: 28px;">昵称</div>
+                <input type="text" style="padding-left: 60px; color: #222;" class="field-input" placeholder="请输入昵称" ng-model="nickName"/>
+            </div>
+
+            <div class="changepass-hline"></div>
+
+            <div class="changepass-field">
+                <div class="field-icon" style="width: 50px; line-height: 28px;">电话</div>
+                <input type="text" style="padding-left: 60px; color: #222;" class="field-input" placeholder="请输入电话" ng-model="mobile"/>
+            </div>
+
+            <div class="changepass-hline"></div>
+
+            <div class="changepass-field">
+                <div class="field-icon" style="width: 50px; line-height: 28px;">地址</div>
+                <input type="text" style="padding-left: 60px; color: #222;" class="field-input" placeholder="请输入地址" ng-model="address"/>
+            </div>
+
+            <div class="changepass-hline"></div>
+
+            <div class="changepass-field">
+                <div class="field-icon" style="width: 70px; line-height: 28px;">从业项目</div>
+                <input type="text" style="padding-left: 80px; color: #222;" class="field-input" placeholder="请输入从业项目" ng-model="project"/>
+            </div>
+
+            <div class="changepass-hline"></div>
+
+            <div class="changepass-field">
+                <div class="field-icon" style="width: 70px; line-height: 28px;">养殖规模</div>
+                <input type="text" style="padding-left: 80px; color: #222;" class="field-input" placeholder="请输入养殖规模" ng-model="scale"/>
+            </div>
+        </div>
+        <div class="changepass-submit" ng-click="touchChangeInfo()">
+            保存
+        </div>
+
+    </div>
+
+</div>
